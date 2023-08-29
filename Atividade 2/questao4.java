@@ -23,7 +23,7 @@ public class questao4 {
                 
                 String fileOut = sc.nextLine();
             
-                try(BufferedWriter writer = new BufferedWriter(new FileWriter(fileOut), "ISO-8859-1")){
+                try(BufferedWriter writer = new BufferedWriter(new OutputStreamWriter( new FileOutputStream(fileOut), "ISO-8859-1"))){
 
                     writer.write(text.toString());
                     System.out.println("Salvo em "+ fileOut);
