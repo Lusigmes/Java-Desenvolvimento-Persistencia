@@ -1,0 +1,13 @@
+{
+  "usuarios" : [ {
+    "id" : 1,
+    "nome" : "User1",
+    "endereco" : "Endereco1",
+    "cpf" : 12345
+  }, {
+    "id" : 2,
+    "nome" : "User2",
+    "endereco" : "Endereco2",
+    "cpf" : 54321
+  } ]
+}

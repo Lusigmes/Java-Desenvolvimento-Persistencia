@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path="src"/>
+    <classpathentry kind="output" path="bin"/>
+    <!-- Adicione as entradas para as bibliotecas Jackson abaixo -->
+    <classpathentry kind="lib" path="lib/jackson-core-2.15.2.jar"/>
+    <classpathentry kind="lib" path="lib/jackson-databind-2.15.2.jar"/>
+    <classpathentry kind="lib" path="lib/jackson-dataformat-xml-2.15.2.jar"/>
+    <classpathentry kind="lib" path="lib/jackson-annotations-xml-2.15.2.jar"/>
+    <classpathentry kind="lib" path="lib/postgresql-42.6.0.jar"/>
+    <classpathentry kind="lib" path="lib/stax2-api-42.1.jar"/>
+    <classpathentry kind="lib" path="lib/woodstox-core-6.5.1.jar"/>
+    <!-- Outras entradas do classpath, se houver -->
+</classpath>

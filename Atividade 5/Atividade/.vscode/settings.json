@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Luis\\Documents\\SI20232\\persistencia\\Atividade 5\\Atividade\\lib\\jackson-databind-2.15.2.jar",
+        "c:\\Users\\Luis\\Documents\\SI20232\\persistencia\\Atividade 5\\Atividade\\lib\\jackson-annotations-2.15.2.jar",
+        "c:\\Users\\Luis\\Documents\\SI20232\\persistencia\\Atividade 5\\Atividade\\lib\\jackson-core-2.15.2.jar",
+        "c:\\Users\\Luis\\Documents\\SI20232\\persistencia\\Atividade 5\\Atividade\\lib\\jackson-dataformat-xml-2.15.2.jar",
+        "c:\\Users\\Luis\\Documents\\SI20232\\persistencia\\Atividade 5\\Atividade\\lib\\postgresql-42.6.0.jar",
+        "c:\\Users\\Luis\\Documents\\SI20232\\persistencia\\Atividade 5\\Atividade\\lib\\stax2-api-4.2.1.jar",
+        "c:\\Users\\Luis\\Documents\\SI20232\\persistencia\\Atividade 5\\Atividade\\lib\\woodstox-core-6.5.1.jar"
+    ]
+}

@@ -1,0 +1,16 @@
+<user_master>
+  <usuarios>
+    <usuario>
+      <id>1</id>
+      <nome>User1</nome>
+      <endereco>Endereco1</endereco>
+      <cpf>12345</cpf>
+    </usuario>
+    <usuario>
+      <id>2</id>
+      <nome>User2</nome>
+      <endereco>Endereco2</endereco>
+      <cpf>54321</cpf>
+    </usuario>
+  </usuarios>
+</user_master>

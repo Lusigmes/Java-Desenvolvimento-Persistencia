@@ -1,0 +1,70 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DesserializaJSON",
+            "request": "launch",
+            "mainClass": "DesserializaJSON",
+            "projectName": "Atividade_e1d95ff9"
+        },
+        {
+            "type": "java",
+            "name": "SerializaJSON",
+            "request": "launch",
+            "mainClass": "SerializaJSON",
+            "projectName": "Atividade_e1d95ff9"
+        },
+        {
+            "type": "java",
+            "name": "DeserializaXML",
+            "request": "launch",
+            "mainClass": "DeserializaXML",
+            "projectName": "Atividade_e1d95ff9"
+        },
+        {
+            "type": "java",
+            "name": "SerializaXML",
+            "request": "launch",
+            "mainClass": "SerializaXML",
+            "projectName": "Atividade_e1d95ff9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Atividade_e1d95ff9"
+        },
+        {
+            "type": "java",
+            "name": "DesserializaJAVA",
+            "request": "launch",
+            "mainClass": "DesserializaJAVA",
+            "projectName": "Atividade_e1d95ff9"
+        },
+        {
+            "type": "java",
+            "name": "SerializaJAVA",
+            "request": "launch",
+            "mainClass": "SerializaJAVA",
+            "projectName": "Atividade_e1d95ff9"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "Atividade_e1d95ff9"
+        }
+    ]
+}
