@@ -1,2 +1,2 @@
-# persistencia
-Arquivos em java desenvolvidos na disciplina.
+# java
+Arquivos em java gerais e atividadaes desenvolvidas na disciplina de persistência.
